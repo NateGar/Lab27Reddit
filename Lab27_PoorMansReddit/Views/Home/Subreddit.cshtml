@@ -1,0 +1,29 @@
+﻿<html>
+<head>
+    <style>
+        body{ background-color:lightskyblue;}
+        h2{
+            text-align:center;
+            color:rebeccapurple;
+        }
+        img {
+            border-radius: 8px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+        .monospace {
+            font-family: "Lucida Console", Courier, monospace;
+        }
+    </style>
+</head>
+<body>
+    @model RedditPost
+    <a href="https://reddit.com/@Model.permalink">
+        <h2 class="monospace">@Model.title</h2>
+
+        <img src="@Model.thumbnail" />
+    </a>
+</body>
+</html>

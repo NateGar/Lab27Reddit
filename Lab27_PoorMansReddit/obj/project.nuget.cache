@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7SZp+r2P2ux7IIuoGlHMfx1OHm2DJXigbDPW1lDhZIQ5ssg6L0qHIZA4r3hyWFy1RbNgqL8c2OBgo3FfQpwHrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nate\\Documents\\CSharp_april2020\\Lab27_PoorMansReddit\\Lab27_PoorMansReddit\\Lab27_PoorMansReddit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nate\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
